@@ -1,0 +1,35 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/font/bootstrap-icons.min.css");
+img{
+    height: 100px;
+    width: 200px;
+    margin-bottom: 30px;
+}
+.row{
+    margin-top: 30px;
+}
+.tit{
+    font-size: 100px ;
+    text-align: center;
+}
+.bottone{
+    font-size: 30px;
+}
+form{
+    margin-top:20px
+}
+body.dark-mode {
+    background-color: #000000;
+    color: #ffffff;
+}
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3 {
+    color: #ffffff;
+}
+i {
+    color: black;
+    cursor: pointer;
+}
+body.dark-mode i {
+    color: white;
+}
